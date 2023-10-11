@@ -55,8 +55,8 @@ Bu endpoyni orqali yangi ma'lumotni yuborish mumkin. Ma'lumotlarni yuborish uchu
     "practitioner": "1234567890",
     "organization": "2345678901"
 }
-
-## Qo'llanmalar
+```
+ ## Qo'llanmalar
 Bu proyekt yaratishda quyidagi qo'llanmalardan foydalanildi:
 
 Django Framework
