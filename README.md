@@ -1,7 +1,7 @@
 # Appoinment 
 
-Bu proyekt tibbiy ko`rik va davolanishdagi bemorlarni uchrashuvga tayinlash uchun ishlab chiqildi. Uchrashuv shifokor tomonidan yaratiladi va tegishli hujjatlarni o`z ichiga oladi.
-Ushbu hujjat bemor, shifokor, tashxis hamda bemor murojaat qilishi kerak bo`lgan muassasa haqida ma`lumotlar bo`ladi.
+Bu proyekt tibbiy ko'rik va davolanishdagi bemorlarni uchrashuvga tayinlash uchun ishlab chiqildi. Uchrashuv shifokor tomonidan yaratiladi va tegishli hujjatlarni o'z ichiga oladi.
+Ushbu hujjat bemor, shifokor, tashxis hamda bemor murojaat qilishi kerak b'lgan muassasa haqida ma'lumotlar bo`ladi.
 
 
 ## O'rnating
